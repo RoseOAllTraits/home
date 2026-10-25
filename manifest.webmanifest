@@ -1,0 +1,10 @@
+{
+  "name": "Rose's Worlds",
+  "short_name": "Rose's Worlds",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#f4f0e8",
+  "description": "A home for Practice, RPG, and Play by roseoalltraits."
+}
